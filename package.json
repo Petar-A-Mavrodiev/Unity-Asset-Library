@@ -1,9 +1,8 @@
 {
-  "name": "Unity Edu Kit",
+  "name": "com.metanoetics.unity-asset-library",
   "version": "1.0.0",
   "displayName": "Unity Edu Kit",
-  "description": "CC0 asset library, environment blocks, materials, VFX and scripts for our Unity classes",
-  "unity": "6.1",
+  "description": "CC0 asset library, environment blocks, materials, VFX and scripts for our Unity classes.",
   "author": {
     "name": "petar4mavrodiev",
     "email": "petar.mavrodiev@docenti.naba.com"
