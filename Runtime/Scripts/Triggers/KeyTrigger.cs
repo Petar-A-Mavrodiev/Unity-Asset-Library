@@ -11,6 +11,8 @@
 using UnityEngine;
 using UnityEngine.Events;
 
+namespace Metanoetics
+{
 public class KeyTrigger : MonoBehaviour
 {
     // ===== Settings =====
@@ -37,6 +39,7 @@ public class KeyTrigger : MonoBehaviour
     }
 }
 
+}
 // ============================================
 // IMPLEMENTATION STEPS
 // ============================================

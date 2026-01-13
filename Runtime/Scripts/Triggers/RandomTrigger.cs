@@ -11,6 +11,8 @@
 using UnityEngine;
 using UnityEngine.Events;
 
+namespace Metanoetics
+{
 public class RandomTrigger : MonoBehaviour
 {
     // ===== Settings =====
@@ -53,6 +55,7 @@ public class RandomTrigger : MonoBehaviour
     }
 }
 
+}
 // ============================================
 // IMPLEMENTATION STEPS
 // ============================================

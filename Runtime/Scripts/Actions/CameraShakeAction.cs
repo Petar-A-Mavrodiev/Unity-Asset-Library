@@ -11,6 +11,8 @@
 using UnityEngine;
 using Unity.Cinemachine;
 
+namespace Metanoetics
+{
 public class CameraShakeAction : MonoBehaviour
 {
     // ===== Target =====
@@ -66,6 +68,7 @@ public class CameraShakeAction : MonoBehaviour
     }
 }
 
+}
 // ============================================
 // IMPLEMENTATION STEPS
 // ============================================

@@ -11,6 +11,8 @@
 using UnityEngine;
 using UnityEngine.Events;
 
+namespace Metanoetics
+{
 public class CounterTrigger : MonoBehaviour
 {
     // ===== Settings =====
@@ -58,6 +60,7 @@ public class CounterTrigger : MonoBehaviour
     }
 }
 
+}
 // ============================================
 // IMPLEMENTATION STEPS
 // ============================================

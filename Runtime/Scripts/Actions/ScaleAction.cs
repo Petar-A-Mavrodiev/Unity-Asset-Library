@@ -10,6 +10,8 @@
 using UnityEngine;
 using DG.Tweening;
 
+namespace Metanoetics
+{
 public class ScaleAction : MonoBehaviour
 {
     // ===== Target =====
@@ -63,6 +65,7 @@ public class ScaleAction : MonoBehaviour
     }
 }
 
+}
 // ============================================
 // IMPLEMENTATION STEPS
 // ============================================

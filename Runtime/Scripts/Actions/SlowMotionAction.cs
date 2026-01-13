@@ -12,6 +12,8 @@
 using UnityEngine;
 using DG.Tweening;
 
+namespace Metanoetics
+{
 public class SlowMotionAction : MonoBehaviour
 {
     // ===== Settings =====
@@ -92,6 +94,7 @@ public class SlowMotionAction : MonoBehaviour
     }
 }
 
+}
 // ============================================
 // IMPLEMENTATION STEPS
 // ============================================

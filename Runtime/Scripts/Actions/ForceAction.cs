@@ -9,6 +9,8 @@
 
 using UnityEngine;
 
+namespace Metanoetics
+{
 public class ForceAction : MonoBehaviour
 {
     // ===== Target =====
@@ -50,6 +52,7 @@ public class ForceAction : MonoBehaviour
     }
 }
 
+}
 // ============================================
 // IMPLEMENTATION STEPS
 // ============================================

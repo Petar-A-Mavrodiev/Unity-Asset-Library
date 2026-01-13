@@ -10,6 +10,8 @@
 using UnityEngine;
 using UnityEngine.Events;
 
+namespace Metanoetics
+{
 public class AnimationEventTrigger : MonoBehaviour
 {
     // ===== Events =====
@@ -28,6 +30,7 @@ public class AnimationEventTrigger : MonoBehaviour
     public void FireEvent5() => Event5?.Invoke();
 }
 
+}
 // ============================================
 // IMPLEMENTATION STEPS
 // ============================================

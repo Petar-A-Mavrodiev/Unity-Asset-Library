@@ -10,6 +10,8 @@
 using UnityEngine;
 using DG.Tweening;
 
+namespace Metanoetics
+{
 public class MoveAction : MonoBehaviour
 {
     // ===== Target =====
@@ -91,6 +93,7 @@ public class MoveAction : MonoBehaviour
     }
 }
 
+}
 // ============================================
 // IMPLEMENTATION STEPS
 // ============================================

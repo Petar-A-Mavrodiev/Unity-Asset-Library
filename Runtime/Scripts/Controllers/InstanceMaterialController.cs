@@ -8,6 +8,8 @@
 
 using UnityEngine;
 
+namespace Metanoetics
+{
 public class InstanceMaterialController : MonoBehaviour
 {
     // ===== Target =====
@@ -80,6 +82,7 @@ public class InstanceMaterialController : MonoBehaviour
     }
 }
 
+}
 // ============================================
 // IMPLEMENTATION STEPS
 // ============================================

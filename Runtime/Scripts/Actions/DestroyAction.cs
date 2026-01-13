@@ -10,6 +10,8 @@
 
 using UnityEngine;
 
+namespace Metanoetics
+{
 public class DestroyAction : MonoBehaviour
 {
     // ===== Target =====
@@ -56,6 +58,7 @@ public class DestroyAction : MonoBehaviour
     }
 }
 
+}
 // ============================================
 // IMPLEMENTATION STEPS
 // ============================================

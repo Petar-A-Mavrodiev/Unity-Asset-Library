@@ -1,6 +1,6 @@
 {
     "name": "Metanoetics.UnityAssetLibrary",
-    "rootNamespace": "",
+    "rootNamespace": "Metanoetics",
     "references": [
         "Unity.Cinemachine",
         "Unity.InputSystem"

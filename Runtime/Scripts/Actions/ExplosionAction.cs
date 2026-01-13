@@ -9,6 +9,8 @@
 
 using UnityEngine;
 
+namespace Metanoetics
+{
 public class ExplosionAction : MonoBehaviour
 {
     // ===== Settings =====
@@ -44,6 +46,7 @@ public class ExplosionAction : MonoBehaviour
     }
 }
 
+}
 // ============================================
 // IMPLEMENTATION STEPS
 // ============================================

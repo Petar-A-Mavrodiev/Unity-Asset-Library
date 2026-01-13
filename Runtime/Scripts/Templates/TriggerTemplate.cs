@@ -10,6 +10,8 @@
 using UnityEngine;
 using UnityEngine.Events;
 
+namespace Metanoetics
+{
 public class ExampleTrigger : MonoBehaviour
 {
     // ===== Events =====
@@ -25,6 +27,7 @@ public class ExampleTrigger : MonoBehaviour
     }
 }
 
+}
 // ============================================
 // IMPLEMENTATION STEPS
 // ============================================

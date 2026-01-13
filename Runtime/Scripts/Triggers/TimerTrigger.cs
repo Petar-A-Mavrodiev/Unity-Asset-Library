@@ -12,6 +12,8 @@
 using UnityEngine;
 using UnityEngine.Events;
 
+namespace Metanoetics
+{
 public class TimerTrigger : MonoBehaviour
 {
     // ===== Settings =====
@@ -120,6 +122,7 @@ public class TimerTrigger : MonoBehaviour
     }
 }
 
+}
 // ============================================
 // IMPLEMENTATION STEPS
 // ============================================

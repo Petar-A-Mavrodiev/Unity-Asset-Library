@@ -10,6 +10,8 @@
 using UnityEngine;
 using DG.Tweening;
 
+namespace Metanoetics
+{
 public class RotateAction : MonoBehaviour
 {
     // ===== Target =====
@@ -84,6 +86,7 @@ public class RotateAction : MonoBehaviour
     }
 }
 
+}
 // ============================================
 // IMPLEMENTATION STEPS
 // ============================================

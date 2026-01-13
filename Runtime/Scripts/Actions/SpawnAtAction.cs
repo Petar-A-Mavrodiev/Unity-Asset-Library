@@ -9,6 +9,8 @@
 
 using UnityEngine;
 
+namespace Metanoetics
+{
 public class SpawnAtAction : MonoBehaviour
 {
     // ===== Target =====
@@ -42,6 +44,7 @@ public class SpawnAtAction : MonoBehaviour
     }
 }
 
+}
 // ============================================
 // IMPLEMENTATION STEPS
 // ============================================

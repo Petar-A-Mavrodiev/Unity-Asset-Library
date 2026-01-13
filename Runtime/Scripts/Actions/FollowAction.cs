@@ -10,6 +10,8 @@
 
 using UnityEngine;
 
+namespace Metanoetics
+{
 public class FollowAction : MonoBehaviour
 {
     // ===== Target =====
@@ -78,6 +80,7 @@ public class FollowAction : MonoBehaviour
     }
 }
 
+}
 // ============================================
 // IMPLEMENTATION STEPS
 // ============================================

@@ -12,6 +12,8 @@ using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.InputSystem;
 
+namespace Metanoetics
+{
 public class InputActionTrigger : MonoBehaviour
 {
     // ===== Settings =====
@@ -55,6 +57,7 @@ public class InputActionTrigger : MonoBehaviour
     }
 }
 
+}
 // ============================================
 // IMPLEMENTATION STEPS
 // ============================================

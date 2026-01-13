@@ -15,6 +15,8 @@
 using UnityEngine;
 using UnityEngine.Events;
 
+namespace Metanoetics
+{
 public class LifecycleTrigger : MonoBehaviour
 {
     // ===== Events =====
@@ -58,6 +60,7 @@ public class LifecycleTrigger : MonoBehaviour
     }
 }
 
+}
 // ============================================
 // IMPLEMENTATION STEPS
 // ============================================

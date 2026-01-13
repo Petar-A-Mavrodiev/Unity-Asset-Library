@@ -8,6 +8,8 @@
 
 using UnityEngine;
 
+namespace Metanoetics
+{
 public class MaterialColorController : MonoBehaviour
 {
     // ===== Target =====
@@ -59,6 +61,7 @@ public class MaterialColorController : MonoBehaviour
     }
 }
 
+}
 // ============================================
 // IMPLEMENTATION STEPS
 // ============================================

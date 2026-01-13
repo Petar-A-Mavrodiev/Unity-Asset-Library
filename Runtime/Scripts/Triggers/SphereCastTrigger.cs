@@ -11,6 +11,8 @@
 using UnityEngine;
 using UnityEngine.Events;
 
+namespace Metanoetics
+{
 public class SphereCastTrigger : MonoBehaviour
 {
     // ===== Settings =====
@@ -54,6 +56,7 @@ public class SphereCastTrigger : MonoBehaviour
     }
 }
 
+}
 // ============================================
 // IMPLEMENTATION STEPS
 // ============================================

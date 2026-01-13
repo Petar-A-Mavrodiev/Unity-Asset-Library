@@ -12,6 +12,8 @@
 using UnityEngine;
 using DG.Tweening;
 
+namespace Metanoetics
+{
 public class EnvironmentController : MonoBehaviour
 {
     // ===== Target =====
@@ -204,6 +206,7 @@ public class EnvironmentController : MonoBehaviour
     }
 }
 
+}
 // ============================================
 // IMPLEMENTATION STEPS
 // ============================================

@@ -10,6 +10,8 @@
 
 using UnityEngine;
 
+namespace Metanoetics
+{
 public class MaterialSwapAction : MonoBehaviour
 {
     // ===== Target =====
@@ -53,6 +55,7 @@ public class MaterialSwapAction : MonoBehaviour
     }
 }
 
+}
 // ============================================
 // IMPLEMENTATION STEPS
 // ============================================

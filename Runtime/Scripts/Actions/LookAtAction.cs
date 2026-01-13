@@ -11,6 +11,8 @@
 using UnityEngine;
 using DG.Tweening;
 
+namespace Metanoetics
+{
 public class LookAtAction : MonoBehaviour
 {
     // ===== Target =====
@@ -99,6 +101,7 @@ public class LookAtAction : MonoBehaviour
     }
 }
 
+}
 // ============================================
 // IMPLEMENTATION STEPS
 // ============================================

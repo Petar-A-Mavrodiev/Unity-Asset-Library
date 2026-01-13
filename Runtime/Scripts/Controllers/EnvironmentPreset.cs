@@ -7,6 +7,8 @@
 
 using UnityEngine;
 
+namespace Metanoetics
+{
 [CreateAssetMenu(fileName = "New Environment Preset", menuName = "Environment Preset")]
 public class EnvironmentPreset : ScriptableObject
 {
@@ -56,4 +58,5 @@ public class EnvironmentPreset : ScriptableObject
 
     [Range(0f, 8f)]
     public float ambientIntensity = 1f;
+}
 }

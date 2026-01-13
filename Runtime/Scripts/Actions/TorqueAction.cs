@@ -9,6 +9,8 @@
 
 using UnityEngine;
 
+namespace Metanoetics
+{
 public class TorqueAction : MonoBehaviour
 {
     // ===== Target =====
@@ -51,6 +53,7 @@ public class TorqueAction : MonoBehaviour
     }
 }
 
+}
 // ============================================
 // IMPLEMENTATION STEPS
 // ============================================

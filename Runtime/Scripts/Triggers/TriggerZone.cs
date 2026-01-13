@@ -11,6 +11,8 @@
 using UnityEngine;
 using UnityEngine.Events;
 
+namespace Metanoetics
+{
 public class TriggerZone : MonoBehaviour
 {
     // ===== Settings =====
@@ -70,6 +72,7 @@ public class TriggerZone : MonoBehaviour
     }
 }
 
+}
 // ============================================
 // IMPLEMENTATION STEPS
 // ============================================

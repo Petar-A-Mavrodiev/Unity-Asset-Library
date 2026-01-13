@@ -11,6 +11,8 @@
 using UnityEngine;
 using UnityEngine.Events;
 
+namespace Metanoetics
+{
 public class VisibilityTrigger : MonoBehaviour
 {
     // ===== Events =====
@@ -30,6 +32,7 @@ public class VisibilityTrigger : MonoBehaviour
     }
 }
 
+}
 // ============================================
 // IMPLEMENTATION STEPS
 // ============================================

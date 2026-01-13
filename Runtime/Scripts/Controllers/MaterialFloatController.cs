@@ -8,6 +8,8 @@
 
 using UnityEngine;
 
+namespace Metanoetics
+{
 public class MaterialFloatController : MonoBehaviour
 {
     // ===== Target =====
@@ -58,6 +60,7 @@ public class MaterialFloatController : MonoBehaviour
     }
 }
 
+}
 // ============================================
 // IMPLEMENTATION STEPS
 // ============================================

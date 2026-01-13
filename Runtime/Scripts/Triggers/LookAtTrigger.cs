@@ -11,6 +11,8 @@
 using UnityEngine;
 using UnityEngine.Events;
 
+namespace Metanoetics
+{
 public class LookAtTrigger : MonoBehaviour
 {
     // ===== Settings =====
@@ -69,6 +71,7 @@ public class LookAtTrigger : MonoBehaviour
     }
 }
 
+}
 // ============================================
 // IMPLEMENTATION STEPS
 // ============================================

@@ -8,6 +8,8 @@
 using UnityEngine;
 using UnityEngine.Events;
 
+namespace Metanoetics
+{
 [System.Serializable]
 public class Timer
 {
@@ -91,4 +93,5 @@ public class Timer
             }
         }
     }
+}
 }

@@ -11,6 +11,8 @@
 using UnityEngine;
 using UnityEngine.Events;
 
+namespace Metanoetics
+{
 public class RaycastTrigger : MonoBehaviour
 {
     // ===== Settings =====
@@ -52,6 +54,7 @@ public class RaycastTrigger : MonoBehaviour
     }
 }
 
+}
 // ============================================
 // IMPLEMENTATION STEPS
 // ============================================

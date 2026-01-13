@@ -11,6 +11,8 @@
 using UnityEngine;
 using UnityEngine.Events;
 
+namespace Metanoetics
+{
 public class MouseTrigger : MonoBehaviour
 {
     // ===== Events - Left Button =====
@@ -55,6 +57,7 @@ public class MouseTrigger : MonoBehaviour
     }
 }
 
+}
 // ============================================
 // IMPLEMENTATION STEPS
 // ============================================

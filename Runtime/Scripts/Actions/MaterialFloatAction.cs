@@ -10,6 +10,8 @@
 using UnityEngine;
 using DG.Tweening;
 
+namespace Metanoetics
+{
 public class MaterialFloatAction : MonoBehaviour
 {
     // ===== Target =====
@@ -88,6 +90,7 @@ public class MaterialFloatAction : MonoBehaviour
     }
 }
 
+}
 // ============================================
 // IMPLEMENTATION STEPS
 // ============================================
