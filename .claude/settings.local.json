@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "Bash(powershell -ExecutionPolicy Bypass -File add-namespace.ps1:*)",
-      "Bash(powershell -ExecutionPolicy Bypass -File fix-npc.ps1)"
+      "Bash(powershell -ExecutionPolicy Bypass -File fix-npc.ps1)",
+      "Bash(git add:*)"
     ]
   }
 }

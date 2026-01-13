@@ -1,0 +1,19 @@
+# Claude Code temp files
+tmpclaude-*
+
+# OS generated files
+.DS_Store
+.DS_Store?
+Thumbs.db
+
+# IDE
+.idea/
+.vs/
+*.suo
+*.user
+
+# Unity local files (if any end up here)
+*.pidb
+*.unityproj
+*.sln
+*.csproj
