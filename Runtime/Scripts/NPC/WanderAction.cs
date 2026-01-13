@@ -3,6 +3,8 @@ using UnityEngine.AI;
 using System.Collections;
 using UnityEngine.Events;
 
+namespace Metanoetics
+{
 /// <summary>
 /// WANDER ACTION
 /// ====================

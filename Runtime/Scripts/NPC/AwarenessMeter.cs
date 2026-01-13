@@ -1,6 +1,8 @@
 using UnityEngine;
 using UnityEngine.Events;
 
+namespace Metanoetics
+{
 /// <summary>
 /// AWARENESS METER
 /// ====================

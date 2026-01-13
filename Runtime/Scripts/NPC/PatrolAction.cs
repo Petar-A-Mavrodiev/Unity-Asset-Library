@@ -3,6 +3,8 @@ using UnityEngine.AI;
 using UnityEngine.Events;
 using System.Collections;
 
+namespace Metanoetics
+{
 /// <summary>
 /// PATROL ACTION
 /// ====================
